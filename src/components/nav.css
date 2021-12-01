@@ -1,0 +1,22 @@
+nav {
+  height: 40px;
+  padding-right: 10px;
+
+  background-color: black;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.navbutton {
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+}
+
+.navbutton:hover {
+  color: aquamarine;
+}
