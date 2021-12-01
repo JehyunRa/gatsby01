@@ -1,0 +1,10 @@
+.navbutton {
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+}
+
+.navbutton:hover {
+  color: aquamarine;
+}
