@@ -1,13 +1,13 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 // import "src/pages/components/navbutton.css";
 
 export default function NavButton(props) {
 
-  let navigate = useNavigate();
+  // let navigate = useNavigate();
   function handleClick() {
-    navigate(props.nav);
+    // navigate(props.nav);
   }
 
   return(
